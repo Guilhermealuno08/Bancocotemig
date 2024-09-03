@@ -77,7 +77,7 @@ programa
 	       	   	              
 
 	       	   	             se (deposito > 10000)
-	       	   	               escreva ("O deposito é maior que o limite pela receita federal, comparença ao gerente para esclarecer")
+	       	   	               escreva ("O deposito é maior que o limite pela receita federal, comparença ao gerente para desbloquear")
 	       	   	              
 	       	   	                }   
 	       	   	            
